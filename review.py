@@ -17,4 +17,9 @@
 # When the loop is finished, print "Who do we appreciate?"
 # Remember how range can be used to create the list [2,4,6,8]
 # When complete, commit to github and submit a pull request!
-
+America = [2, 4, 6 , 8]
+buttz = 0
+for x in America:
+    print America[buttz]
+    buttz = buttz + 1
+print "Who do we appreciate?"
